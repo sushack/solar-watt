@@ -10,6 +10,7 @@
         'ngToast',
         'solarwatt.templates',
         'solarwatt.cloudgraph',
+        'solarwatt.radiation',
         'solarwatt.dashboard'
     ]);
 

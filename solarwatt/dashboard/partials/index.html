@@ -1,4 +1,21 @@
-<p>Dashboard</p>
+<h1>Dashboard</h1>
+<h2>Current Availablilty:</h2>
+<table class="table">
+    <tr>
+        <th>Time</th>
+        <th>Sky</th>
+        <th>Radiation</th>
+        <th>Correction</th>
+        <th>Output</th>
+    </tr>
+    <tr ng-repeat="row in availability">
+        <td>{{row.time}}</td>
+        <td>{{row.sky}}</td>
+        <td>{{row.radiation}}</td>
+        <td>{{row.correction | number}}</td>
+        <td>{{row.output | number}}</td>
+    </tr>
+</table>
 <p>
     <a ui-sref="cloudgraph">Cloudgraph</a>
 </p>

@@ -14,7 +14,16 @@
 
             $stateProvider.state('solarwatt.dashboard.page', {
                 url: '',
-                templateUrl: 'dashboard/partials/index.html'
+                templateUrl: 'dashboard/partials/index.html',
+                resolve: {
+                    getClouds: ['cloudfactory', function(cloudfactory) {
+                        return cloudfactory.getClouds();
+                    }],
+                    getRadiation: ['radiationFactory', function(radiationFactory) {
+                        return radiationFactory.getRadiation();
+                    }]
+                },
+                controller: 'dashboardController'
             });
         }
     ]);
