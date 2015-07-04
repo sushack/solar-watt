@@ -1,32 +1,31 @@
 (function() {
     'use strict';
 
-    angular.module('solarwatt.dashboard').controller('dashboardController', ['$scope', 'cloudfactory', 'radiationFactory',
-        function($scope, cloudFactory, radiationFactory) {
-            var availability = [];
-            for (var i = 0; i < cloudFactory.clouds.length; i++) {
-                var cloud = cloudFactory.clouds[i];
-                var available = {};
+    angular.module('solarwatt.dashboard').controller('dashboardController', ['$scope', 'currentFactory',
+        function($scope, currentFactory) {
+            $scope.availability = currentFactory.current;
+            $scope.kwp = 1;
+            $scope.hours = 1;
 
-                for (var n = 0; n < radiationFactory.radiation.length; n++) {
-                    var radiation = radiationFactory.radiation[n];
-                    if (cloud.time === radiation.time) {
-                        var correction = 0.2 + (0.8 * Math.pow(1 - cloud.sky / 100, 2));
-                        available = {
-                            time: cloud.time,
-                            sky: cloud.sky,
-                            radiation: radiation.radiation,
-                            correction: correction,
-                            output: radiation.radiation * correction
-                        };
-
-                        availability.push(available);
-                        break;
-                    }
+            $scope.$watch('kwp', function(newVal, oldVal) {
+                if (oldVal === newVal) {
+                    return;
                 }
-            }
 
-            $scope.availability = availability;
+                currentFactory.getCurrent($scope.kwp, $scope.hours).then(function() {
+                    $scope.availability = currentFactory.current;
+                });
+            });
+
+            $scope.$watch('hours', function(newVal, oldVal) {
+                if (oldVal === newVal) {
+                    return;
+                }
+
+                currentFactory.getCurrent($scope.kwp, $scope.hours).then(function() {
+                    $scope.availability = currentFactory.current;
+                });
+            });
         }
     ]);
 })();
