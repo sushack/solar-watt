@@ -1,0 +1,451 @@
+[0mGET / [32m200 [0m14.401 ms - 384[0m
+[0mGET /javascripts/templates.js [32m200 [0m6.314 ms - 798[0m
+[0mGET /javascripts/main.js [32m200 [0m6.451 ms - 5461[0m
+[0mGET /javascripts/vendor.js [32m200 [0m34.209 ms - 2468816[0m
+[0mGET / [32m200 [0m13.896 ms - 384[0m
+[0mGET /javascripts/templates.js [32m200 [0m7.768 ms - 798[0m
+[0mGET /javascripts/main.js [32m200 [0m7.447 ms - 5461[0m
+[0mGET /javascripts/vendor.js [32m200 [0m34.572 ms - 2468816[0m
+[0mGET /api/v1/clouds [33m404 [0m238.585 ms - 995[0m
+[0mGET / [32m200 [0m16.174 ms - 384[0m
+[0mGET /javascripts/templates.js [32m200 [0m8.546 ms - 798[0m
+[0mGET /javascripts/main.js [32m200 [0m9.056 ms - 5461[0m
+[0mGET /javascripts/vendor.js [32m200 [0m89.250 ms - 2468816[0m
+Port 3000 is already in use
+[0mGET / [36m304 [0m2.640 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.797 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m2.699 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.888 ms - -[0m
+Port 3000 is already in use
+[0mGET / [36m304 [0m0.730 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.781 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.030 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.732 ms - -[0m
+Port 3000 is already in use
+[0mGET / [36m304 [0m0.967 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m2.875 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m4.406 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m2.110 ms - -[0m
+Port 3000 is already in use
+[0mGET /api/v1/clouds [33m404 [0m237.660 ms - 995[0m
+[0mGET /api/v1/clouds [33m404 [0m40.401 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m12.473 ms - 995[0m
+[0mGET / [36m304 [0m1.664 ms - -[0m
+[0mGET /api/v1/clouds [33m404 [0m19.103 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m15.336 ms - 995[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.835 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m0.668 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.697 ms - -[0m
+Port 3000 is already in use
+[0mGET /api/v1/clouds [33m404 [0m9.071 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m9.747 ms - 995[0m
+[0mGET / [36m304 [0m0.739 ms - -[0m
+[0mGET /api/v1/clouds [33m404 [0m17.941 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m15.740 ms - 995[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.908 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m3.636 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.300 ms - -[0m
+Port 3000 is already in use
+[0mGET /api/v1/clouds [33m404 [0m11.812 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m11.392 ms - 995[0m
+[0mGET /api/v1/clouds/ [33m404 [0m11.214 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m7.508 ms - 995[0m
+[0mGET / [36m304 [0m0.761 ms - -[0m
+[0mGET /api/v1/clouds/ [33m404 [0m10.918 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m6.752 ms - 995[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.061 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.827 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.117 ms - -[0m
+Port 3000 is already in use
+[0mGET /api/v1/clouds/ [33m404 [0m10.919 ms - 995[0m
+[0mGET / [36m304 [0m10.215 ms - -[0m
+[0mGET /stylesheets/style.css [33m404 [0m18.656 ms - 995[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.372 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m0.897 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.659 ms - -[0m
+Port 3000 is already in use
+[0mGET /api/v1/clouds/ [33m404 [0m7.481 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m5.523 ms - 995[0m
+[0mGET /api/v1/clouds/ [33m404 [0m6.559 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m8.784 ms - 995[0m
+[0mGET /api/v1/clouds/ [33m404 [0m7.822 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m4.903 ms - 995[0m
+[0mGET /api/v1/clouds/ [33m404 [0m6.536 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m8.614 ms - 995[0m
+[0mGET /api/v1/clouds [33m404 [0m7.988 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m6.280 ms - 995[0m
+[0mGET / [32m200 [0m13.796 ms - 384[0m
+[0mGET /javascripts/templates.js [32m200 [0m10.305 ms - 798[0m
+[0mGET /javascripts/main.js [32m200 [0m7.155 ms - 5461[0m
+[0mGET /javascripts/vendor.js [32m200 [0m56.784 ms - 2468816[0m
+[0mGET / [36m304 [0m2.253 ms - -[0m
+[0mGET /api/v1/clouds [33m404 [0m307.984 ms - 995[0m
+[0mGET /javascripts/vendor.js [36m304 [0m2.596 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.947 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.720 ms - -[0m
+[0mGET /stylesheets/style.css [33m404 [0m63.101 ms - 995[0m
+Port 3000 is already in use
+[0mGET /api/v1/clouds [33m404 [0m18.445 ms - 995[0m
+[0mGET / [36m304 [0m2.094 ms - -[0m
+[0mGET /stylesheets/style.css [33m404 [0m22.246 ms - 995[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.804 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m5.295 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.720 ms - -[0m
+Port 3000 is already in use
+[0mGET /api/v1/clouds [33m404 [0m17.073 ms - 995[0m
+[0mGET / [36m304 [0m0.552 ms - -[0m
+[0mGET /stylesheets/style.css [33m404 [0m9.196 ms - 995[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.754 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.165 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.040 ms - -[0m
+Port 3000 is already in use
+[0mGET /api/v1/clouds/ [33m404 [0m14.139 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m6.604 ms - 995[0m
+[0mGET /api/v1/clouds [33m404 [0m12.787 ms - 995[0m
+[0mGET / [36m304 [0m1.272 ms - -[0m
+[0mGET /stylesheets/style.css [33m404 [0m13.589 ms - 995[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.938 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.365 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.844 ms - -[0m
+Port 3000 is already in use
+[0mGET / [36m304 [0m0.971 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.222 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.143 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.944 ms - -[0m
+[0mGET /api/ [33m404 [0m10.728 ms - 995[0m
+[0mGET /stylesheets/style.css [33m404 [0m10.445 ms - 995[0m
+[0mGET /api/v1/clouds [36m304 [0m13.013 ms - -[0m
+[0mGET / [32m200 [0m9.312 ms - 384[0m
+[0mGET /javascripts/templates.js [32m200 [0m4.815 ms - 798[0m
+[0mGET /javascripts/main.js [32m200 [0m4.918 ms - 5461[0m
+[0mGET /javascripts/vendor.js [32m200 [0m51.350 ms - 2468816[0m
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:25:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+[0mGET / [36m304 [0m3.050 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m4.826 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.368 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m2.242 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m2.203 ms - -[0m
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:25:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+[0mGET / [36m304 [0m1.848 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m2.741 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m2.831 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.500 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.853 ms - -[0m
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:25:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+[0mGET /api/v1/clouds [36m304 [0m1.838 ms - -[0m
+[0mGET / [36m304 [0m3.210 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m3.053 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.068 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.045 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.096 ms - -[0m
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:24:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+[0mGET / [36m304 [0m1.296 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m2.414 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m2.261 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m2.477 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.798 ms - -[0m
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:24:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+[0mGET / [36m304 [0m1.611 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m3.170 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m4.581 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m3.602 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m3.569 ms - -[0m
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:24:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:24:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:24:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:24:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:24:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:24:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+module.js:338
+    throw err;
+          ^
+Error: Cannot find module 'request'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at C:\Code\solar-watt\routes\clouds.js:6:19
+    at Object.<anonymous> (C:\Code\solar-watt\routes\clouds.js:16:3)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+Port 3000 is already in use
+[0mGET /api/v1/clouds [32m- [0m- ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m90.573 ms - -[0m
+[0mGET / [32m200 [0m8.350 ms - 384[0m
+[0mGET /javascripts/templates.js [32m200 [0m4.452 ms - 798[0m
+[0mGET /javascripts/main.js [32m200 [0m4.720 ms - 5457[0m
+[0mGET /javascripts/vendor.js [32m200 [0m55.414 ms - 2468816[0m
+[0mGET / [36m304 [0m1.188 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.685 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m0.812 ms - -[0m
+[0mGET /javascripts/main.js [32m200 [0m1.398 ms - 5491[0m
+[0mGET / [36m304 [0m0.849 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.774 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m0.856 ms - -[0m
+[0mGET /javascripts/main.js [32m200 [0m2.479 ms - 5539[0m
+[0mGET / [36m304 [0m0.639 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m2.243 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.711 ms - -[0m
+[0mGET /javascripts/main.js [32m200 [0m2.002 ms - 5539[0m
+[0mGET /api/v1/clouds [36m304 [0m42.413 ms - -[0m
+[0mGET / [36m304 [0m0.987 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.101 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.628 ms - -[0m
+[0mGET /javascripts/main.js [32m200 [0m2.679 ms - 5501[0m
+[0mGET /api/v1/clouds [36m304 [0m68.051 ms - -[0m
+[0mGET / [36m304 [0m0.611 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.013 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.157 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m2.421 ms - 774[0m
+[0mGET /api/v1/clouds [36m304 [0m1152.916 ms - -[0m
+[0mGET / [36m304 [0m0.672 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.853 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.102 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m3.092 ms - 868[0m
+[0mGET /api/v1/clouds [36m304 [0m59.131 ms - -[0m
+[0mGET / [36m304 [0m0.726 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.597 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.555 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m4.347 ms - 872[0m
+[0mGET /api/v1/clouds [36m304 [0m41.635 ms - -[0m
+[0mGET / [36m304 [0m2.957 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.960 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.175 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m2.321 ms - 901[0m
+[0mGET /api/v1/clouds [36m304 [0m367.535 ms - -[0m
+[0mGET / [36m304 [0m0.764 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.656 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.873 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m1.668 ms - 910[0m
+[0mGET /api/v1/clouds [32m200 [0m64.011 ms - 13234[0m
+[0mGET / [36m304 [0m0.765 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.667 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.111 ms - -[0m
+[0mGET /javascripts/main.js [32m200 [0m1.288 ms - 5667[0m
+[0mGET /api/v1/clouds [36m304 [0m56.096 ms - -[0m
+[0mGET / [36m304 [0m0.900 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.684 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m0.893 ms - 922[0m
+[0mGET /javascripts/main.js [36m304 [0m0.656 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m49.567 ms - -[0m
+[0mGET / [36m304 [0m0.633 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.034 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m0.923 ms - 931[0m
+[0mGET /javascripts/main.js [36m304 [0m0.598 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m57.189 ms - -[0m
+[0mGET / [36m304 [0m0.589 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.729 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m2.798 ms - 906[0m
+[0mGET /javascripts/main.js [36m304 [0m0.827 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m51.431 ms - -[0m
+[0mGET / [36m304 [0m1.084 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.849 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.623 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m1.405 ms - 1046[0m
+[0mGET /api/v1/clouds [36m304 [0m76.443 ms - -[0m
+[0mGET / [36m304 [0m0.869 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.811 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.295 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m3.815 ms - 889[0m
+[0mGET /api/v1/clouds [36m304 [0m53.947 ms - -[0m
+[0mGET / [36m304 [0m1.477 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.140 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m3.797 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m3.365 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m52.817 ms - -[0m
+Port 3000 is already in use
+[0mGET / [36m304 [0m0.847 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.567 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m1.281 ms - -[0m
+[0mGET /javascripts/main.js [32m200 [0m2.089 ms - 5662[0m
+[0mGET /api/v1/clouds [36m304 [0m500.281 ms - -[0m
+[0mGET / [36m304 [0m0.600 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.108 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m1.673 ms - 910[0m
+[0mGET /javascripts/main.js [36m304 [0m0.612 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m62.862 ms - -[0m
+[0mGET / [32m200 [0m12.716 ms - 384[0m
+[0mGET /javascripts/templates.js [32m200 [0m4.279 ms - 910[0m
+[0mGET /javascripts/main.js [32m200 [0m4.456 ms - 5662[0m
+[0mGET /javascripts/vendor.js [32m200 [0m21.733 ms - 2468816[0m
+[0mGET /api/v1/clouds [32m200 [0m521.176 ms - 40755[0m
+[0mGET / [36m304 [0m1.551 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.669 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.341 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m2.125 ms - 919[0m
+[0mGET /api/v1/clouds [36m304 [0m375.931 ms - -[0m
+[0mGET / [36m304 [0m0.629 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m3.803 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m3.309 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m4.213 ms - 920[0m
+[0mGET /api/v1/clouds [36m304 [0m223.930 ms - -[0m
+[0mGET / [36m304 [0m0.669 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m3.385 ms - -[0m
+[0mGET /javascripts/templates.js [36m304 [0m3.152 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.568 ms - -[0m
+[0mGET /api/v1/clouds [36m304 [0m356.700 ms - -[0m
+[0mGET / [36m304 [0m0.850 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m2.252 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.229 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m3.397 ms - 903[0m
+[0mGET /api/v1/clouds [36m304 [0m351.520 ms - -[0m
+[0mGET / [36m304 [0m0.610 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m0.992 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.694 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m2.405 ms - 920[0m
+[0mGET /api/v1/clouds [36m304 [0m499.007 ms - -[0m
+[0mGET / [36m304 [0m0.652 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.120 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m0.851 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m1.745 ms - 927[0m
+[0mGET /api/v1/clouds [36m304 [0m371.754 ms - -[0m
+[0mGET / [36m304 [0m0.618 ms - -[0m
+[0mGET /javascripts/vendor.js [36m304 [0m1.185 ms - -[0m
+[0mGET /javascripts/main.js [36m304 [0m1.024 ms - -[0m
+[0mGET /javascripts/templates.js [32m200 [0m3.064 ms - 906[0m
+[0mGET /api/v1/clouds [36m304 [0m387.935 ms - -[0m

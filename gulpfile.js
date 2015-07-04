@@ -8,7 +8,17 @@
     var livereload = require('gulp-livereload');
     var del = require('del');
     var templateCache = require('gulp-angular-templatecache');
-    var foreman = require('gulp-foreman');
+    var child = require('child_process');
+    var fs = require('fs');
+
+    gulp.task('server', function() {
+        var server = child.spawn('node', ['./bin/www']);
+        var log = fs.createWriteStream('server.log', {
+            flags: 'a'
+        });
+        server.stdout.pipe(log);
+        server.stderr.pipe(log);
+    });
 
     gulp.task('clean', function() {
         return del(['public']);
@@ -38,7 +48,10 @@
             }))
             .pipe(gulp.dest('public/javascripts'));
     });
-
+    gulp.task('pages', function() {
+        return gulp.src('solarwatt/index.html')
+            .pipe(gulp.dest('public'));
+    });
     gulp.task('favicon', function() {
         return gulp.src('favicon.ico')
             .pipe(gulp.dest('public'));
@@ -46,8 +59,8 @@
 
     gulp.task('select2_images', function() {
         return gulp.src([
-            'bower_components/select2/select2.png',
-            'bower_components/select2/select2-spinner.gif',
+                'bower_components/select2/select2.png',
+                'bower_components/select2/select2-spinner.gif',
             ])
             .pipe(gulp.dest('public/stylesheets'));
     });
@@ -103,16 +116,18 @@
         // Watch .js files
         gulp.watch('solarwatt/**/*.js', ['scripts']);
         gulp.watch('solarwatt/**/*.html', ['template_cache']);
+        gulp.watch('solarwatt/index.html', ['pages']);
+
+        gulp.watch('routes/**', ['server']).on('change', livereload.changed);
+        gulp.watch('app.js', ['server']).on('change', livereload.changed);
+
         // Create LiveReload server
         livereload.listen();
         // Watch any files in dist/, reload on change
         gulp.watch(['public/**']).on('change', livereload.changed);
         gulp.watch(['views/**']).on('change', livereload.changed);
-
-        //foreman();
     });
-    gulp.task('build', ['vendor_components', 'scripts', 'template_cache']);
-    gulp.task('default', ['watch', 'build']);
-    gulp.task('heroku:production', ['build']);
+    gulp.task('build', ['vendor_components', 'scripts', 'template_cache', 'pages']);
+    gulp.task('default', ['watch', 'build', 'server']);
     return gulp;
 })();
