@@ -52,6 +52,10 @@
         return gulp.src('solarwatt/index.html')
             .pipe(gulp.dest('public'));
     });
+    gulp.task('images', function() {
+        return gulp.src('images/**')
+            .pipe(gulp.dest('public/images'));
+    });
     gulp.task('favicon', function() {
         return gulp.src('favicon.ico')
             .pipe(gulp.dest('public'));
@@ -127,7 +131,7 @@
         gulp.watch(['public/**']).on('change', livereload.changed);
         gulp.watch(['views/**']).on('change', livereload.changed);
     });
-    gulp.task('build', ['vendor_components', 'scripts', 'template_cache', 'pages']);
+    gulp.task('build', ['vendor_components', 'scripts', 'template_cache', 'pages', 'images']);
     gulp.task('default', ['watch', 'build', 'server']);
     return gulp;
 })();

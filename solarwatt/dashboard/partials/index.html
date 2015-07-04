@@ -1,4 +1,19 @@
 <h1>Dashboard</h1>
+
+<style>
+.appliances .appliance { display: inline-block; padding: 1em; }
+.goodAppliance { background-color: green; }
+.badAppliance{ background-color: red; }
+
+</style>
+<h2>Appliances</h2>
+
+<div class='appliances'>
+<div class='appliance' ng-class="check(app)" ng-repeat="app in appliances">
+  <img style='width: 60px;' ng-src="/images/{{app.img}}"/>
+</div>
+</div>
+
 <h2>Current Availablilty:</h2>
 <form class="form">
     <div class="form-group">
