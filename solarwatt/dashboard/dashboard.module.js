@@ -16,11 +16,8 @@
                 url: '',
                 templateUrl: 'dashboard/partials/index.html',
                 resolve: {
-                    getClouds: ['cloudfactory', function(cloudfactory) {
-                        return cloudfactory.getClouds();
-                    }],
-                    getRadiation: ['radiationFactory', function(radiationFactory) {
-                        return radiationFactory.getRadiation();
+                    getCurrent: ['currentFactory', function(currentFactory) {
+                        return currentFactory.getCurrent(1, 1);
                     }]
                 },
                 controller: 'dashboardController'
