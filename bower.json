@@ -1,0 +1,34 @@
+{
+  "name": "solar-watt",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sushack/solar-watt",
+  "authors": [
+    "Alex Winson <awinson@neworbit.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-ui-router": "~0.2.14",
+    "lodash": "~3.8.0",
+    "restangular": "~1.5.1",
+    "angular-loading-bar": "~0.7.1",
+    "bootstrap": "~3.3.4",
+    "angular-bootstrap": "~0.13.0",
+    "angular-carousel": "~0.3.10",
+    "angular-ui-select2": "~0.0.5",
+    "moment": "~2.10.3",
+    "angular-moment": "~0.10.1",
+    "angular-timeago": "~0.1.12",
+    "ngtoast": "~1.5.4"
+  },
+  "resolutions": {
+    "angular": "~1.4.0"
+  }
+}
