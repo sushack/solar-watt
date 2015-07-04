@@ -17,7 +17,7 @@
                 templateUrl: 'dashboard/partials/index.html',
                 resolve: {
                     getCurrent: ['currentFactory', function(currentFactory) {
-                        return currentFactory.getCurrent(1, 1);
+                        return currentFactory.getCurrent(4, 4);
                     }]
                 },
                 controller: 'dashboardController'
