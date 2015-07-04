@@ -11,7 +11,7 @@
                 for (var n = 0; n < radiationFactory.radiation.length; n++) {
                     var radiation = radiationFactory.radiation[n];
                     if (cloud.time === radiation.time) {
-                        var correction = (0.2 + (0.8 * (1 - cloud.sky / 100))) * (0.2 + (0.8 * (1 - cloud.sky / 100)));
+                        var correction = 0.2 + (0.8 * Math.pow(1 - cloud.sky / 100, 2));
                         available = {
                             time: cloud.time,
                             sky: cloud.sky,
